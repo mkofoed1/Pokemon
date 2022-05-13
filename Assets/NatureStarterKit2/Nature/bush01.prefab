@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3302098}
   - component: {fileID: 2398136}
   - component: {fileID: 1438335060146687205}
+  - component: {fileID: 6369156999382124482}
   m_Layer: 0
   m_Name: bush01
   m_TagString: Untagged
@@ -108,6 +109,18 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2.1737978, y: 2.553689, z: 2.796365}
   m_Center: {x: 0.035410054, y: 1.039449, z: 0.08277925}
+--- !u!114 &6369156999382124482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 108544}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf93e17da5b064e428a6d2b845e57c6d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!21 &2176284
 Material:
   serializedVersion: 6
